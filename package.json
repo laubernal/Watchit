@@ -1,10 +1,11 @@
 {
-  "name": "Watchit",
+  "name": "watchit",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "dependencies": {
     "caporal": "^1.4.0",
+    "chalk": "^4.1.1",
     "chokidar": "^3.5.2",
     "lodash.debounce": "^4.0.8"
   },
